@@ -1,4 +1,4 @@
-# pptx-view-notes
+# pptx-extract-notes
 A simple script to convert a pptx file to its presenter notes (if any) in a simple html file
 
 # Installation
