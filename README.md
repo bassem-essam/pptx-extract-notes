@@ -1,5 +1,5 @@
 # pptx-extract-notes
-A simple script to convert a pptx file to its presenter notes (if any) in a simple html file
+A script to extract presenter notes (if any) from a pptx file into a simple html file
 
 # Installation
 1. Install python3 (maybe 2 can also work)
